@@ -4,6 +4,7 @@ Class 11 Student | Python and Web Developer
 
 ## Projects
 - Hand Cricket Game
+- Face Authentication System
 
 ## Skills
 Python
