@@ -1,6 +1,6 @@
 # Hi, I'm Darsh 👋
 
-Class 11 Student | Python and Web Developer
+Class 12 Student | Python and Web Developer
 
 ## Projects
 - Hand Cricket Game
