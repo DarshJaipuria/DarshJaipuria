@@ -7,7 +7,7 @@ Class 12 Student | Python and Web Developer
 - Face Authentication System
 
 ## Skills
-Python
-HTML , CSS , JS
-Automation
+Python ,
+HTML , CSS , JS ,
+Automation ,
 Basic AI Agents
