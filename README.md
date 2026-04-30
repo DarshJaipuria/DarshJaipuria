@@ -26,6 +26,7 @@ I'm a Class 12 student passionate about Artificial Intelligence and Data Science
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
 
@@ -38,6 +39,11 @@ A command-line cricket game in Python where you play against the computer in a 1
 ### 🔐 Face Authentication System
 A Python-based face authentication system using OpenCV for real-time face detection and recognition.
 → [View Project](https://github.com/DarshJaipuria/face-authentication-system)
+
+### 🏎️ Nitro Rush — 3D Racing Game
+A browser-based 3D arcade racing game built with Three.js. Features AI opponent, 
+drift physics, nitro boost, tire smoke particles & procedural engine audio.
+→ [View Project](https://github.com/DarshJaipuria/nitro-rush-3d)
 
 ---
 
