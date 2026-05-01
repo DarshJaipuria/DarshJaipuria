@@ -27,6 +27,8 @@ I'm a Class 12 student passionate about Artificial Intelligence and Data Science
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Data Quality](https://img.shields.io/badge/Data_Quality-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
@@ -49,9 +51,8 @@ drift physics, nitro boost, tire smoke particles & procedural engine audio.
 
 ## 📜 Certifications
 
-- 🎓 **Tools for Data Science V2** — IBM (Apr 2026)
+- 🎓 **Data Science Methodology** — IBM (May 2026)
 - 🎓 **Tools for Data Science** — IBM (Apr 2026)
-- 🎓 **Data Science Orientation** — IBM (Apr 2026)
 - 🎓 **What is Data Science?** — IBM (Apr 2026)
 - 🎓 **Introduction to Data Science and AI** — IIT Madras (Oct 2025)
 - 🎓 **Generative AI Mastermind** — Outskill (Aug 2025)
