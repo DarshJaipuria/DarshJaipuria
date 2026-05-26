@@ -51,6 +51,7 @@ drift physics, nitro boost, tire smoke particles & procedural engine audio.
 
 ## 📜 Certifications
 
+- 🎓 **Python for Data Science, AI & Development** — IBM (May 2026)
 - 🎓 **Data Science Methodology** — IBM (May 2026)
 - 🎓 **Tools for Data Science** — IBM (Apr 2026)
 - 🎓 **What is Data Science?** — IBM (Apr 2026)
