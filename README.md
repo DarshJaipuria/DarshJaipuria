@@ -19,6 +19,13 @@ I'm a Class 12 student passionate about Artificial Intelligence and Data Science
 
 ## 🛠️ Skills
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF9800?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-673AB7?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,6 +58,7 @@ drift physics, nitro boost, tire smoke particles & procedural engine audio.
 
 ## 📜 Certifications
 
+- 🎓 **Python Project for Data Science** — IBM (May 2026)
 - 🎓 **Python for Data Science, AI & Development** — IBM (May 2026)
 - 🎓 **Data Science Methodology** — IBM (May 2026)
 - 🎓 **Tools for Data Science** — IBM (Apr 2026)
