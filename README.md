@@ -36,10 +36,18 @@ I'm a Class 12 student passionate about Artificial Intelligence and Data Science
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Data Quality](https://img.shields.io/badge/Data_Quality-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
+<img src="https://img.shields.io/badge/Game_Development-B92B27?style=for-the-badge&logo=epicgames&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Architecture-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/CS50-A51C30?style=for-the-badge&logo=harvard&logoColor=white" />
 
 ---
 
 ## 📂 Projects
+
+### 🚀 Neon Void — 2D Arcade Engine
+A custom 2D space shooter built for Harvard's CS50. Engineered from scratch featuring infinite parallax background scrolling, a localized vector particle engine, state-driven boss mechanics, and dynamic screen shake algorithms. 
+→ [View Project](https://github.com/DarshJaipuria/neon-void)
 
 ### 🏏 Hand Cricket Game
 A command-line cricket game in Python where you play against the computer in a 12-ball, 2-wicket match using random number simulation.
