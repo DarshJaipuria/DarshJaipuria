@@ -19,6 +19,7 @@ I'm a Class 12 student passionate about Artificial Intelligence and Data Science
 
 ## 🛠️ Skills
 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -66,6 +67,7 @@ drift physics, nitro boost, tire smoke particles & procedural engine audio.
 
 ## 📜 Certifications
 
+- 🎓 **Databases and_SQL for Data Science with Python** — IBM (June 2026)
 - 🎓 **Python Project for Data Science** — IBM (May 2026)
 - 🎓 **Python for Data Science, AI & Development** — IBM (May 2026)
 - 🎓 **Data Science Methodology** — IBM (May 2026)
