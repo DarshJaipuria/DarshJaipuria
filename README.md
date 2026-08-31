@@ -21,26 +21,25 @@ I'm a Class 12 student passionate about Artificial Intelligence and Data Science
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B3B2?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF9800?style=for-the-badge)
-![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-673AB7?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF9900?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-673AB7?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Data Quality](https://img.shields.io/badge/Data_Quality-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
-![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
-<img src="https://img.shields.io/badge/Game_Development-B92B27?style=for-the-badge&logo=epicgames&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Architecture-000000?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/CS50-A51C30?style=for-the-badge&logo=harvard&logoColor=white" />
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-9C27B0?style=for-the-badge)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-673AB7?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-009688?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-EC4899?style=for-the-badge)
 
 ---
 
@@ -67,12 +66,7 @@ drift physics, nitro boost, tire smoke particles & procedural engine audio.
 
 ## 📜 Certifications
 
-- 🎓 **Databases and_SQL for Data Science with Python** — IBM (June 2026)
-- 🎓 **Python Project for Data Science** — IBM (May 2026)
-- 🎓 **Python for Data Science, AI & Development** — IBM (May 2026)
-- 🎓 **Data Science Methodology** — IBM (May 2026)
-- 🎓 **Tools for Data Science** — IBM (Apr 2026)
-- 🎓 **What is Data Science?** — IBM (Apr 2026)
+- 🎓 **IBM Data Science Professional Certificate** — IBM (Aug 2026)
 - 🎓 **Introduction to Data Science and AI** — IIT Madras (Oct 2025)
 - 🎓 **Generative AI Mastermind** — Outskill (Aug 2025)
 
